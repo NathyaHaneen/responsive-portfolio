@@ -1,4 +1,5 @@
 # Responsive Portfolio
+Used media queries to achieve Resposive design
 ## Template 1
 ![image](https://github.com/NathyaHaneen/responsive-portfolio/assets/143100357/499d0d99-b9e5-40c8-b63e-51729582396f)
 ## Template 2
